@@ -1,4 +1,4 @@
-## Section 2: PART 1: Write your first Go Program
+## Section 2: * PART 1: Write your first Go Program
 
 Topics covered:
 
